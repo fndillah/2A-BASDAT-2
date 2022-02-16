@@ -1,2 +1,2 @@
 # BASDAT-2
-Group 2 of Database subject grade 2A Information System of Universitas Singaperbangsa Karawang 
+group 2 database lesson class 2A Fakultas Sistem Informasi, Universitas Singaperbangsa Karawang 
