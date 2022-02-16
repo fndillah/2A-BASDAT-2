@@ -1,2 +1,8 @@
 # BASDAT-2
-group 2 database lesson class 2A Fakultas Sistem Informasi, Universitas Singaperbangsa Karawang 
+
+## Anggota kelompok 2
+
+1. Dimas Alip Faturrohim
+2. Khairunnisa Fitriani
+3. Nurmeirasari
+4. Affan Abdillah
